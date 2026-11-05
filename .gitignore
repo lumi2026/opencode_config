@@ -226,3 +226,5 @@ package-lock.json
 bun.lock
 service.json
 cli.json
+opencode.json
+opencode.jsonc
